@@ -9,14 +9,17 @@ choco install googlechrome -fy
 choco install visualstudiocode -fy
 
 :::: Dev software
-choco install python
-choco install curl
+choco install python -fy
+choco install curl -fy
 
 :::: Dev tools
 choco install git -fy
 choco install sourcetree -fy
-choco install putty.install
-choco install anaconda3
+choco install putty.install -fy
+choco install anaconda3 -fy
+choco install filezilla -fy
+choco install intellijidea-community -fy
+choco install notepadplusplus.install -fy
 
 :::: Media
 choco install vlc -fy
